@@ -1,0 +1,73 @@
+@font-face {
+    font-family:OASIS ;
+    src: url(/fuentes/OASIS___.TTF);
+}
+h1{
+    font-family: OASIS;
+}
+
+
+
+#liam{
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+    background-color: darkblue;
+    background-image: url(liam.png);
+    background-position: 50% 50%;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid cyan;
+    float: left;
+}
+.oasis{
+    color: rgb(217, 163, 96);
+}
+#paul{width: 500px;
+    height: 500px;
+    margin: 20px;
+    background-color: rgb(125, 0, 139);
+    background-image: url(kiss.png);
+    background-position: 50% 50%;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+}
+.kiss{
+    color: aliceblue;
+}
+
+#chester{width: 500px;
+    height: 500px;
+    margin: 20px;
+    background-color: rgb(248, 248, 251);
+    background-image: url(chester.png);
+    background-position: 50% 50%;
+    background-size: 110%;
+    padding: 50px;
+    border: 5px solid rgb(16, 226, 23);
+    float: left;
+}
+.liking{
+    color: black;
+}
+
+#papa_emeritus{width: 500px;
+    height: 500px;
+    margin: 20px;
+    background-color: rgb(139, 0, 0);
+    background-image: url(papa\ emritus.png);
+    background-position: 50% 50%;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid cyan;
+    float: left;
+}
+
+.ghost{
+    color: gray;
+}
